@@ -1,4 +1,8 @@
 streamlit==1.33.0
 transformers==4.37.2
-nltk==3.8.1
 torch>=1.10.0,<2.2
+nltk==3.8.1
+markdown-it-py==3.0.0
+mdurl==0.1.2
+pygments==2.19.1
+rich==14.0.0
