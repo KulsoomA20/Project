@@ -4,6 +4,9 @@ import nltk
 from io import BytesIO
 from datetime import datetime
 import random
+import os
+os.environ["STREAMLIT_WATCH_USE_POLLING"] = "true"
+
 
 
 nltk.download('punkt_tab')
