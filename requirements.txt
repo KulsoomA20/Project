@@ -1,5 +1,4 @@
 streamlit==1.35.0
 transformers==4.31.0
-torch==2.0.1+cpu
+torch==2.0.1
 nltk==3.8.1
---extra-index-url https://download.pytorch.org/whl/cpu

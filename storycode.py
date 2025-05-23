@@ -6,7 +6,7 @@ from datetime import datetime
 import random
 
 
-nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 
 # Streamlit page config
